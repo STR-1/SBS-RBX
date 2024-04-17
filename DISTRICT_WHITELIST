@@ -1,1 +1,15 @@
+--[[
+	ENSURE EACH WORD IS SEPERATED BY A COMMA USE TEMPLATE FORMAT ONLY
+	
+	"EXAMPLE",
+]]
 
+return {
+	
+	
+	"Autauga",
+	"County",
+	"Schools",
+	"Autauga County Schools"
+	
+}
