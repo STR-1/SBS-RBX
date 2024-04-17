@@ -10,6 +10,8 @@ return {
 "County",
 "Schools",
 "Autauga County Schools",
+"District",
+"School",
 
 	
 }
