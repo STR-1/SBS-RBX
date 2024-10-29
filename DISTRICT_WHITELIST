@@ -1,4 +1,4 @@
---[[
+	--[[
 	USE THE TEMPLATE PROVIDED BELOW ONLY, COPY AND PASTE ONLY, USING ANY OTHER QUOTATIONS (ANDRIOD, IPHONE DO NOT USE THE SAME AS PC) THIS CAN MESS UP THE CODE, DO NOT RISK IT.
 	
 	"EXAMPLE",
@@ -210,5 +210,9 @@ return {
 "Independent",
 "Schools",
 "Jenkins Independent Schools",
+"OZARK R-6/VI",
+"School",
+"District",
+"Ozark R-6/VI School District",
 
 }
