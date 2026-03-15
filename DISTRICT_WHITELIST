@@ -306,4 +306,8 @@ return {
 "county",
 "schools",
 "Lowndes county schools",
+"Memphis",
+"municipal",
+"schools",
+"Memphis municipal schools",
 }
