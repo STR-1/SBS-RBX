@@ -400,4 +400,9 @@ return {
 "District",
 "Schools",
 "Bay District Schools",
+"Page",
+"County",
+"Public",
+"Schools",
+"Page County Public Schools",
 }
